@@ -32,25 +32,11 @@ This project analyzes sales data to identify trends, top-selling products, and s
     ```bash
    jupyter notebook sales_data_analysis.ipynb
 
+
+📜 License
+This project is open-source and free to use.
 ⭐ If you like this project, don't forget to star this repo! ⭐
 
-📢 **Make sure to replace** `your-username` **with your actual GitHub username**.
-
----
-
-## ✅ **Step 5: Share Your Project**
-### 🚀 **Now, Share It on LinkedIn!**  
-🔹 **Go to LinkedIn** → Create a post → Write:  
-💡 _"I just completed a Sales Data Analysis project using Python! 🚀 Check it out on GitHub: [GitHub Link]"_  
-
-This will **boost your profile** and help in **placements**! 😊
-
----
-
-🎯 **Congrats!** Now your project is live on GitHub! 🎉  
-Need help with any step? Let me know. 🚀😊
-
-  
 
 
 
