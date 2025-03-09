@@ -23,7 +23,7 @@ This project analyzes sales data to identify trends, top-selling products, and s
 ## 📌 How to Run
 1. Clone the repository:
      ```bash
-   git clone https://github.com/your-username/Sales-Data-Analysis.git
+   git clone https://github.com/Santhoshiini/Sales-Data-Analysis.git
 2. Install dependencies:
     ```bash
     pip install pandas matplotlib seaborn
