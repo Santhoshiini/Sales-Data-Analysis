@@ -34,7 +34,9 @@ This project analyzes sales data to identify trends, top-selling products, and s
 
 
 📜 License
+
 This project is open-source and free to use.
+
 ⭐ If you like this project, don't forget to star this repo! ⭐
 
 
